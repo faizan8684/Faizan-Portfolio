@@ -20,7 +20,6 @@
 
 <head>
   <meta charset="utf-8" />
-  <link rel="apple-touch-icon" sizes="76x76" href="../assets/img/apple-icon.png">
   <link rel="icon" type="image/png" href="../assets/img/favicon.png">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <title>
@@ -199,8 +198,8 @@ background-size: cover; */
                   <div class="col-md-6">
                     <a href="http://www.mescoepune.org/alumni"><img src="/assets/img/alumniportal.jpg" alt="" class="img-raised"></a>
                     <div class="mb-2 mt-2 caption text-center"><a href="http://www.mescoepune.org/alumni">MESCOE ALUMNI</a></div>
-                    <a href="https://www.faizanakhtar.com"><img src="/assets/img/portfolio.jpg" alt="" class="img-raised mt-1"></a>
-                    <div class="mb-2 caption text-center"><a href="https://www.faizanakhtar.com">MY PORTFOLIO</a></div>
+                    <a href="https://youtu.be/EoiHjS1ylic"><img src="/assets/img/PowerApp.png" alt="" class="img-raised mt-1"></a>
+                    <div class="mb-2 caption text-center"><a href="https://youtu.be/EoiHjS1ylic">MIXED REALITY IN POWERAPPS</a></div>
                   </div>
                   <div class="col-md-6">
                     <a href="https://1drv.ms/u/s!At5PgPLegaZVoGia6L2mGKSNflRF?e=MWcoMX"><img src="../assets/img/OC_MR.png" alt="" class="img-raised"></a>
@@ -211,7 +210,10 @@ background-size: cover; */
                 </div>
               </div>
             </div>
+            <p class="mb-2 caption font-weight-bold text-right"><a href="https://www.github.com/faizan8684">More Projects </a><i class="fab fa-github"></i></p>
           </div>
+      
+          
       </div>
         
 
@@ -300,10 +302,7 @@ background-size: cover; */
   <script src="../assets/js/plugins/nouislider.min.js" type="text/javascript"></script>
   <!--  Plugin for the DatePicker, full documentation here: https://github.com/uxsolutions/bootstrap-datepicker -->
   <script src="../assets/js/plugins/bootstrap-datepicker.js" type="text/javascript"></script>
-  <!--  Google Maps Plugin    -->
-  <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY_HERE"></script>
-  <!-- Control Center for Now Ui Kit: parallax effects, scripts for the example pages etc -->
-  <script src="../assets/js/now-ui-kit.js?v=1.3.0" type="text/javascript"></script>
+    <script src="../assets/js/now-ui-kit.js?v=1.3.0" type="text/javascript"></script>
   <script>
     function validateForm(){
            submitted=true;
