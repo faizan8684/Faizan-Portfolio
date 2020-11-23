@@ -79,7 +79,10 @@ body,html{
             <a class="nav-link" href="#AboutMe" >About Me</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#Projects">Know More</a>
+            <a class="nav-link" href="#Projects">Projects</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#Sessions">Sessions</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#Contact">Contact Me</a>
@@ -157,9 +160,6 @@ background-size: cover; */
     <div class="section">
       <div class="container">
         <div class="button-container" >
-          <a style="background-color: gainsboro;"  href="https://linktr.ee/FaizanSessions" class="mr-5 btn btn-default btn-round btn-lg btn-icon" rel="tooltip" title="My Sessions">
-            <svg class="svg-icon" enable-background="new 0 0 512 512" height="auto" viewBox="0 0 512 512" width="60%" xmlns="http://www.w3.org/2000/svg"><g><path d="m466.125 408.338c9.288-11.243 14.875-25.65 14.875-41.338 0-35.841-29.159-65-65-65-1.684 0-3.348.085-5 .211v-92.211h5c8.284 0 15-6.716 15-15s-6.716-15-15-15h-15v-45c0-3.978-1.58-7.793-4.394-10.606l-20-20c-5.857-5.858-15.355-5.858-21.213 0s-5.858 15.355 0 21.213l15.607 15.606v38.787h-20v-5c0-30.643-18.481-57.037-44.875-68.662 9.288-11.243 14.875-25.65 14.875-41.338 0-35.841-29.159-65-65-65s-65 29.159-65 65c0 15.688 5.587 30.095 14.875 41.338-26.394 11.625-44.875 38.019-44.875 68.662v5h-65c-8.284 0-15 6.716-15 15s6.716 15 15 15h5v92.211c-1.652-.126-3.316-.211-5-.211-35.841 0-65 29.159-65 65 0 15.688 5.587 30.095 14.875 41.338-26.394 11.625-44.875 38.019-44.875 68.662v20c0 8.284 6.716 15 15 15h480c8.284 0 15-6.716 15-15v-20c0-30.643-18.481-57.037-44.875-68.662zm-15.125-41.338c0 19.299-15.701 35-35 35s-35-15.701-35-35 15.701-35 35-35 35 15.701 35 35zm-195-337c19.299 0 35 15.701 35 35s-15.701 35-35 35-35-15.701-35-35 15.701-35 35-35zm-65 145c0-24.813 20.187-45 45-45h40c24.813 0 45 20.187 45 45v5h-130zm-60 35h250v102.271c-18.023 11.567-30 31.769-30 54.729 0 15.688 5.587 30.095 14.875 41.338-11.883 5.234-22.166 13.45-29.875 23.714-7.709-10.264-17.992-18.48-29.875-23.714 9.288-11.243 14.875-25.65 14.875-41.338 0-35.841-29.159-65-65-65s-65 29.159-65 65c0 15.688 5.587 30.095 14.875 41.338-11.883 5.234-22.166 13.45-29.875 23.714-7.709-10.264-17.992-18.48-29.875-23.714 9.288-11.243 14.875-25.65 14.875-41.338 0-22.96-11.977-43.162-30-54.729zm90 157c0-19.299 15.701-35 35-35s35 15.701 35 35-15.701 35-35 35-35-15.701-35-35zm-125-35c19.299 0 35 15.701 35 35s-15.701 35-35 35-35-15.701-35-35 15.701-35 35-35zm-65 145c0-24.813 20.187-45 45-45h40c24.813 0 45 20.187 45 45v5h-130zm160 0c0-24.813 20.187-45 45-45h40c24.813 0 45 20.187 45 45v5h-130zm290 5h-130v-5c0-24.813 20.187-45 45-45h40c24.813 0 45 20.187 45 45z"/></g></svg>
-          </a>
           <a style="background-color: #0073b0;" href="https://www.linkedin.com/in/faizanakhtar8684/" class="mr-5 btn btn-default btn-round btn-lg btn-icon" rel="tooltip" title="Connect with me on LinkedIn">
             <i class="fab fa-linkedin-in"></i>
           </a>
@@ -196,26 +196,65 @@ background-size: cover; */
               <div class="col-md-10 ml-auto mr-auto">
                 <div class="row collections">
                   <div class="col-md-6">
-                    <a href="http://www.mescoepune.org/alumni"><img src="/assets/img/alumniportal.jpg" alt="" class="img-raised"></a>
+                    <a href="http://www.mescoepune.org/alumni"><img src="/assets/img/alumniportal.jpg" alt="MESCOE ALUMNI" class="img-raised"></a>
                     <div class="mb-2 mt-2 caption text-center"><a href="http://www.mescoepune.org/alumni">MESCOE ALUMNI</a></div>
-                    <a href="https://youtu.be/EoiHjS1ylic"><img src="/assets/img/PowerApp.png" alt="" class="img-raised mt-1"></a>
+                    <a href="https://youtu.be/EoiHjS1ylic"><img src="/assets/img/PowerApp.png" alt="MIXED REALITY IN POWERAPPS" class="img-raised mt-1"></a>
                     <div class="mb-2 caption text-center"><a href="https://youtu.be/EoiHjS1ylic">MIXED REALITY IN POWERAPPS</a></div>
                   </div>
                   <div class="col-md-6">
-                    <a href="https://1drv.ms/u/s!At5PgPLegaZVoGia6L2mGKSNflRF?e=MWcoMX"><img src="../assets/img/OC_MR.png" alt="" class="img-raised"></a>
+                    <a href="https://1drv.ms/u/s!At5PgPLegaZVoGia6L2mGKSNflRF?e=MWcoMX"><img src="../assets/img/OC_MR.png" alt="MIXED REALITY PROJECTS" class="img-raised"></a>
                     <div class="mb-2 caption text-center"><a href="https://1drv.ms/u/s!At5PgPLegaZVoGia6L2mGKSNflRF?e=MWcoMX">MIXED REALITY PROJECTS</a></div>
-                    <a href="https://www.drdalvi.com"><img src="assets/img/drdalvi.jpg" alt="" class="img-raised"></a>
+                    <a href="https://www.drdalvi.com"><img src="assets/img/drdalvi.jpg" alt="DR DALVI" class="img-raised"></a>
                   <div class="mb-2 caption text-center"><a href="https://www.drdalvi.com">DR DALVI</a></div>
                   </div>
                 </div>
               </div>
             </div>
-            <p class="mb-2 caption font-weight-bold text-right"><a href="https://www.github.com/faizan8684">More Projects </a><i class="fab fa-github"></i></p>
+            <div><p class="mt-2 mr-3 caption font-weight-bold text-right"><a href="https://www.github.com/faizan8684">More Projects </a><i class="fab fa-github"></i></p></div>
           </div>
-      
-          
       </div>
         
+      <div id="Sessions" class="row mb-0 mt-0">
+        <div class="col-md-6 ml-auto mr-auto">
+          <h2 class="title text-center">My Sessions</h2>
+          <div class="nav-align-center">
+            <ul class="nav nav-pills nav-pills-primary nav-pills-just-icons" role="tablist">
+            </ul>
+          </div>
+        </div>
+        <!-- Tab panes -->
+        <div class="tab-content gallery mb-5">
+          <div class="tab-pane active" id="home" role="tabpanel">
+            <div class="col-md-10 ml-auto mr-auto">
+              <div class="row collections">
+                
+                <div class="col-md-6" style="margin: auto;">
+                  <a href="https://youtu.be/5JkIn7o25uw?t=15"><img src="/assets/img/Sessions/MRJulia.jpeg" alt="MIXED REALITY WITH HOLOLENS" class="img-raised"></a>
+                  <div class="mb-2 caption text-center"><a href="https://youtu.be/5JkIn7o25uw?t=15">MIXED REALITY WITH HOLOLENS</a></div>
+                </div>
+                
+                <div class="col-md-6" style="margin: auto;">
+                  <a href="https://youtu.be/Q-s6eFPv4QM"><img src="/assets/img/Sessions/Aysegul.png" alt="INTRODUCTION TO WEBXR" class="img-raised mt-1"></a>
+                  <div class="mb-2 caption text-center"><a href="https://youtu.be/Q-s6eFPv4QM">INTRODUCTION TO WEBXR</a></div>
+                </div>
+                
+                <div class="col-md-6" style="margin: auto;">
+                  <a href="https://youtu.be/UJjWLR_ry84"><img src="/assets/img/Sessions/PowerApps.png" alt="MIXED REALITY WITH POWERAPPS" class="img-raised"></a>
+                  <div class="mb-2 caption text-center"><a href="https://youtu.be/UJjWLR_ry84">MIXED REALITY WITH POWERAPPS</a></div>
+                </div>
+
+                <div class="col-md-6" style="margin: auto;">
+                  <a href="https://linktr.ee/armrdays"><img src="/assets/img/Sessions/ARMRDays.jpeg" alt="AR MR DAYS" class="img-raised mt-1"></a>
+                  <div class="mb-2 caption text-center"><a href="https://linktr.ee/armrdays">AR MR DAYS</a></div>
+                </div>
+
+
+              </div>
+            </div>
+          </div>
+          <div><p class="mt-2 mr-3 caption font-weight-bold text-right"><a class=" text-success" href="https://linktr.ee/FaizanSessions">More Sessions</a>  <i class="fab fa-long-arrow-alt-right"></i></p></div>
+        </div>
+    </div>    
 
       <div class="m-0 pr-4 pb-4 justify-content-center" id="Contact" style="background-color: burlywood; border-radius: 5px;">
           <div class="container">
@@ -233,7 +272,7 @@ background-size: cover; */
                <div class="pt-2 pb-2 pr-1 mb-2" style="margin: 0px; background-color: #343a40;border-radius: 5px;">
                 <div class="ml-4  mt-1 " >
                   <h4><i class="fa fa-location-arrow"></i><span class="mail text-white"> Pune, India</span></h4>
-                  <h4><i class="fa fa-phone" style="transform: rotate(90deg);"></i><span class=" mail text-white"> +91 9890677134</span></h4>
+                  <h4><i class="fa fa-mail-bulk" ></i><span class=" mail text-white"> <a class=" mail text-white" href="https://t.me/faizanakhtar98">@faizanakhtar98</a> </span></h4>
                   <h4><i class="fa fa-envelope"></i><span class="ml-1 mail text-white"> akhtarf8684@gmail.com</span></h4>
                 </div>
               </div> 
@@ -283,10 +322,15 @@ background-size: cover; */
     <footer class="footer footer-default ">
       <div class="container">
         <div class="text-center" id="copyright">
-          &copy;
+          <div>No part of this portal is under Copyright, feel free to use any part of this page! Spread Love! <i class="fa fa-heart" ></i> </div>
+          
+          
           <script>
             document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()))
-          </script>, Faizan Akhtar
+          </script>, 
+          
+          Faizan Akhtar
+          
           
         </div>
       </div>
