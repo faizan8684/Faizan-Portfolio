@@ -322,7 +322,7 @@ background-size: cover; */
     <footer class="footer footer-default ">
       <div class="container">
         <div class="text-center" id="copyright">
-          <div>No part of this portal is under Copyright, feel free to use any part of this page! Spread Love! <i class="fa fa-heart" ></i> </div>
+          <div>No part of this portal is under Copyright(except images), feel free to use any code from this page! Spread Love! <i class="fa fa-heart" ></i> </div>
           
           
           <script>
