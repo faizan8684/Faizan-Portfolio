@@ -280,7 +280,7 @@ background-size: cover; */
 
               <div class="col-lg-6 col-xs-12 pt-3 pl-3 mx-auto " style="background-color:darkcyan; border-radius: 5px;">
                 <script type="text/javascript">var submitted=false;</script>
-                <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {alert('Thank you! I will get back to you shortly. Please check your inbox.');window.location='/index.html';}"></iframe> 
+                <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {alert('Thank you! I will get back to you shortly. Please check your inbox.');window.location='/index.php';}"></iframe> 
                 <form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSf9knrxXS93RCX1bP5Sm3ttYy78uyKYrdTSMxXTZKR0DfBGAw/formResponse" method="POST" target="hidden_iframe" onsubmit="return validateForm();">
                   <div class="row ">
                       <div class="col-lg-6 ">
