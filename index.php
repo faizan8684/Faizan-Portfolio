@@ -63,7 +63,7 @@ body,html{
     <div class="container">
       
       <div class="navbar-translate" style="font-size: large;">
-        <a class="navbar-brand" href="index.html" rel="tooltip" data-placement="bottom">
+        <a class="navbar-brand" href="index.php" rel="tooltip" data-placement="bottom">
           Faizan
         </a>
         <button class="navbar-collapsee navbar-toggler navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">
