@@ -79,6 +79,9 @@ body,html{
             <a class="nav-link" href="#AboutMe" >About Me</a>
           </li>
           <li class="nav-item">
+            <a class="nav-link" href="https://faizanakhtarblogs.wordpress.com/">Blogs</a>
+          </li>
+          <li class="nav-item">
             <a class="nav-link" href="#Projects">Projects</a>
           </li>
           <li class="nav-item">
@@ -177,7 +180,7 @@ background-size: cover; */
         <div class="mt-5 mr-2 ml-2 row" id="AboutMe">
         <div class="col-md-8  mx-auto" style="border-radius: 5px; background-color: lavender;">
         <h3 class="title text-center text-black" >About me</h3>
-        <h5 class="text-black description">A final year computer engineering student at <span><a style="font-weight: bolder;" href="http://www.mescoepune.org/">MESCOE</a></span>, Microsoft Learn Student Ambassador, India Community Outreach Manager at <a style="font-weight: bolder;" href="http://mrarvr.in/">VR AR MR</a>, and Ex-Mentor at <span><a style="font-weight: bolder;" href="https://www.dscmescoe.com/">DSC MESCOE</a></span> trying to grasp technical and leadership skills as much as possible.</h5>
+        <h5 class="text-black description">A computer engineer, Alumni from <span><a style="font-weight: bolder;" href="http://www.mescoepune.org/">MESCOE</a></span>, Microsoft Learn Student Ambassador, India Community Outreach Manager at <a style="font-weight: bolder;" href="http://mrarvr.in/">VR AR MR</a>, and Ex-Mentor at <span><a style="font-weight: bolder;" href="https://www.dscmescoe.com/">DSC MESCOE</a></span> trying to grasp technical and leadership skills as much as possible.</h5>
       </div>
     </div>
         
@@ -238,6 +241,11 @@ background-size: cover; */
                   <div class="mb-2 caption text-center"><a href="https://youtu.be/Q-s6eFPv4QM">INTRODUCTION TO WEBXR</a></div>
                 </div>
                 
+                <div class="col-md-6" style="margin: auto;">
+                  <a href="https://youtu.be/_2VtdgFrHbM"><img src="assets/img/Sessions/MRTK with April.jpg" alt="MRTK WITH APRIL SPEIGHT" class="img-raised"></a>
+                  <div class="mb-2 caption text-center"><a href="https://youtu.be/_2VtdgFrHbM">MRTK WITH APRIL SPEIGHT</a></div>
+                </div>
+
                 <div class="col-md-6" style="margin: auto;">
                   <a href="https://youtu.be/UJjWLR_ry84"><img src="/assets/img/Sessions/PowerApps.png" alt="MIXED REALITY WITH POWERAPPS" class="img-raised"></a>
                   <div class="mb-2 caption text-center"><a href="https://youtu.be/UJjWLR_ry84">MIXED REALITY WITH POWERAPPS</a></div>
