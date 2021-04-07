@@ -55,6 +55,12 @@ body,html{
   padding-bottom: 0px;
 }
  </style>
+ <script>
+   if(window.location.href.indexOf("Blogs") > -1 || window.location.href.indexOf("blogs") > -1)
+   {
+    window.location = "https://faizanakhtarblogs.wordpress.com/";
+   }
+ </script>
 </head>
 
 <body class="profile-page sidebar-collapse">
@@ -79,7 +85,7 @@ body,html{
             <a class="nav-link" href="#AboutMe" >About Me</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="https://faizanakhtarblogs.wordpress.com/">Blogs</a>
+            <a class="nav-link" id="blogs" href="/blogs.html">Blogs</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#Projects">Projects</a>
