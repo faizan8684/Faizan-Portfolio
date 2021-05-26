@@ -169,7 +169,7 @@ background-size: cover; */
     <div class="section">
       <div class="container">
         <div class="button-container" >
-          <a style="background-color: #0073b0;" href="https://www.linkedin.com/in/faizanakhtar8684/" class="mr-5 btn btn-default btn-round btn-lg btn-icon" rel="tooltip" title="Connect with me on LinkedIn">
+          <a style="background-color: #0073b0;" href="https://www.linkedin.com/in/akhtar-faizan" class="mr-5 btn btn-default btn-round btn-lg btn-icon" rel="tooltip" title="Connect with me on LinkedIn">
             <i class="fab fa-linkedin-in"></i>
           </a>
           <a style="background-color: #1da1f2;" href="https://twitter.com/faizan8684" class="mr-5 btn btn-default btn-round btn-lg btn-icon" rel="tooltip" title="Follow me on Twitter">
