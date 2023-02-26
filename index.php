@@ -186,7 +186,7 @@ background-size: cover; */
         <div class="mt-5 mr-2 ml-2 row" id="AboutMe">
         <div class="col-md-8  mx-auto" style="border-radius: 5px; background-color: lavender;">
         <h3 class="title text-center text-black" >About me</h3>
-        <h5 class="text-black description">A computer engineer, Alumni from <span><a style="font-weight: bolder;" href="http://www.mescoepune.org/">MESCOE</a></span>, Microsoft Learn Student Ambassador, India Community Outreach Manager at <a style="font-weight: bolder;" href="http://mrarvr.in/">VR AR MR</a>, and Ex-Mentor at <span><a style="font-weight: bolder;" href="https://www.dscmescoe.com/">DSC MESCOE</a></span> trying to grasp technical and leadership skills as much as possible.</h5>
+        <h5 class="text-black description">A computer engineer, currently organising <span><a style="font-weight: bolder;" href="https://indiafoss.net/Pune/2023">PuneFOSS</a></span>, pursuing M. Tech. in Software Engineering from <span><a style="font-weight: bolder;" href="https://www.bits-pilani.ac.in/">BITS Pilani</a></span> and trying to grasp technical and leadership skills as much as possible.</h5>
       </div>
     </div>
         
@@ -286,8 +286,8 @@ background-size: cover; */
                <div class="pt-2 pb-2 pr-1 mb-2" style="margin: 0px; background-color: #343a40;border-radius: 5px;">
                 <div class="ml-4  mt-1 " >
                   <h4><i class="fa fa-location-arrow"></i><span class="mail text-white"> Pune, India</span></h4>
-                  <h4><i class="fa fa-mail-bulk" ></i><span class=" mail text-white"> <a class=" mail text-white" href="https://t.me/faizanakhtar98">@faizanakhtar98</a> </span></h4>
-                  <h4><i class="fa fa-envelope"></i><span class="ml-1 mail text-white"> akhtarf8684@gmail.com</span></h4>
+                  <h4><i class="fa fa-mail-bulk" ></i><span class=" mail text-white"> <a class=" mail text-white" href="https://t.me/faizan080">@faizan080</a> </span></h4>
+                  <h4><i class="fa fa-envelope"></i><span class="ml-1 mail text-white"> faizanmsp@gmail.com</span></h4>
                 </div>
               </div> 
             </div> 
