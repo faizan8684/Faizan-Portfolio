@@ -88,6 +88,9 @@ body,html{
             <a class="nav-link" id="blogs" href="/blogs.html">Blogs</a>
           </li>
           <li class="nav-item">
+            <a class="nav-link" href="#Post_COVID_Events">Events</a>
+          </li>
+          <li class="nav-item">
             <a class="nav-link" href="#Projects">Projects</a>
           </li>
           <li class="nav-item">
@@ -186,10 +189,49 @@ background-size: cover; */
         <div class="mt-5 mr-2 ml-2 row" id="AboutMe">
         <div class="col-md-8  mx-auto" style="border-radius: 5px; background-color: lavender;">
         <h3 class="title text-center text-black" >About me</h3>
-        <h5 class="text-black description">A computer engineer, currently organising <span><a style="font-weight: bolder;" href="https://indiafoss.net/Pune/2023">PuneFOSS</a></span>, pursuing M. Tech. in Software Engineering from <span><a style="font-weight: bolder;" href="https://www.bits-pilani.ac.in/">BITS Pilani</a></span> and trying to grasp technical and leadership skills as much as possible.</h5>
+        <h5 class="text-black description">A computer engineer, currently organising <span><a style="font-weight: bolder;" href="https://deploy-preview-32--jsconfindia.netlify.app/">JSConf India 2023</a></span>, pursuing M. Tech. in Software Engineering from <span><a style="font-weight: bolder;" href="https://www.bits-pilani.ac.in/">BITS Pilani</a></span> and trying to grasp technical and leadership skills as much as possible.</h5>
       </div>
     </div>
         
+    <div id="Post_COVID_Events" class="row mb-0 mt-0">
+        <div class="col-md-6 ml-auto mr-auto">
+          <h2 class="title text-center">Post COVID Events</h2>
+          <div class="nav-align-center">
+            <ul class="nav nav-pills nav-pills-primary nav-pills-just-icons" role="tablist">
+            </ul>
+          </div>
+        </div>
+        <!-- Tab panes -->
+        <div class="tab-content gallery mb-5">
+          <div class="tab-pane active" id="home" role="tabpanel">
+            <div class="col-md-10 ml-auto mr-auto">
+              <div class="row collections">
+
+              <div class="col-md-6" style="margin: auto;">
+                  <a href="https://deploy-preview-32--jsconfindia.netlify.app/"><img src="assets/img/Events/ComingSoon.gif" alt="JSConf India 2023" class="img-raised"></a>
+                  <div class="mb-2 caption text-center"><a href="https://deploy-preview-32--jsconfindia.netlify.app/">Organiser, JSConf India 2023</a></div>
+                </div>
+
+                <div class="col-md-6" style="margin: auto;">
+                  <a href="https://twitter.com/faizan8684/status/1642839834309062658"><img src="assets/img/Events/PuneFOSS23.jpeg" alt="Pune FOSS" class="img-raised"></a>
+                  <div class="mb-2 caption text-center"><a href="https://twitter.com/faizan8684/status/1642839834309062658">Organiser, PuneFOSS</a></div>
+                </div>
+                
+                <div class="col-md-6" style="margin: auto;">
+                  <a href="https://www.instagram.com/stories/highlights/18119516617294221/"><img src="/assets/img/Events/DevFestPune22.jpeg" alt="DevFest Pune 2022" class="img-raised"></a>
+                  <div class="mb-2 caption text-center">MC, GDG DevFest Pune 2022</div>
+                </div>
+                
+                <div class="col-md-6" style="margin: auto;">
+                  <a href="https://www.instagram.com/stories/highlights/17960286043845381/"><img src="/assets/img/Events/GFD22.jpeg" alt="GFD 2022" class="img-raised mt-1"></a>
+                  <div class="mb-2 caption text-center">GitHub Field Day 2022 (BLR)</div>
+                </div>
+
+              </div>
+            </div>
+          </div>
+        </div>
+    </div>
     
     <div id="Projects"class="row">
           <div class="col-md-6 ml-auto mr-auto">
@@ -222,7 +264,7 @@ background-size: cover; */
             <div><p class="mt-2 mr-3 caption font-weight-bold text-right"><a href="https://www.github.com/faizan8684">More Projects </a><i class="fab fa-github"></i></p></div>
           </div>
       </div>
-        
+
       <div id="Sessions" class="row mb-0 mt-0">
         <div class="col-md-6 ml-auto mr-auto">
           <h2 class="title text-center">My Sessions</h2>
