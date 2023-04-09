@@ -189,7 +189,7 @@ background-size: cover; */
         <div class="mt-5 mr-2 ml-2 row" id="AboutMe">
         <div class="col-md-8  mx-auto" style="border-radius: 5px; background-color: lavender;">
         <h3 class="title text-center text-black" >About me</h3>
-        <h5 class="text-black description">A software engineer, currently organising <span><a style="font-weight: bolder;" href="https://deploy-preview-32--jsconfindia.netlify.app/">JSConf India 2023</a></span>, pursuing M. Tech. in Software Engineering from <span><a style="font-weight: bolder;" href="https://www.bits-pilani.ac.in/">BITS Pilani</a></span> and trying to grasp technical and leadership skills as much as possible.</h5>
+        <h5 class="text-black description">A software engineer, currently co-organising <span><a style="font-weight: bolder;" href="https://deploy-preview-32--jsconfindia.netlify.app/">JSConf India 2023</a></span>, pursuing M. Tech. in Software Engineering from <span><a style="font-weight: bolder;" href="https://www.bits-pilani.ac.in/">BITS Pilani</a></span> and trying to grasp technical and leadership skills as much as possible.</h5>
       </div>
     </div>
         
@@ -209,7 +209,7 @@ background-size: cover; */
 
               <div class="col-md-6" style="margin: auto;">
                   <a href="https://deploy-preview-32--jsconfindia.netlify.app/"><img src="assets/img/Events/ComingSoon.gif" alt="JSConf India 2023" class="img-raised"></a>
-                  <div class="mb-2 caption text-center"><a href="https://deploy-preview-32--jsconfindia.netlify.app/">Organiser, JSConf India 2023</a></div>
+                  <div class="mb-2 caption text-center"><a href="https://deploy-preview-32--jsconfindia.netlify.app/">Co-Organiser, JSConf India 2023</a></div>
                 </div>
 
                 <div class="col-md-6" style="margin: auto;">
