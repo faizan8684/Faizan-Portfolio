@@ -208,8 +208,8 @@ background-size: cover; */
               <div class="row collections">
 
               <div class="col-md-6" style="margin: auto;">
-                  <a href="https://jsconf.in/"><img src="assets/img/Events/ComingSoon.gif" alt="JSConf India 2023" class="img-raised"></a>
-                  <div class="mb-2 caption text-center"><a href="https://jsconf.in/">Co-Organiser, JSConf India 2023</a></div>
+                  <a href="https://twitter.com/faizan8684/status/1665649080075436032"><img src="assets/img/Events/JSConfIndia.png" alt="JSConf India 2023" class="img-raised"></a>
+                  <div class="mb-2 caption text-center"><a href="https://twitter.com/faizan8684/status/1665649080075436032">Co-Organiser, JSConf India 2023</a></div>
                 </div>
 
                 <div class="col-md-6" style="margin: auto;">
