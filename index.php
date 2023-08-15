@@ -206,8 +206,18 @@ background-size: cover; */
           <div class="tab-pane active" id="home" role="tabpanel">
             <div class="col-md-10 ml-auto mr-auto">
               <div class="row collections">
+                
+                <div class="col-md-6" style="margin: auto;">
+                  <a href="https://www.reactindia.io/"><img src="assets/img/Events/ComingSoon.gif" alt="Coming Soon" class="img-raised"></a>
+                  <div class="mb-2 caption text-center"><a href="https://www.reactindia.io/">Co-organiser, React India</a></div>
+                </div>
 
-              <div class="col-md-6" style="margin: auto;">
+                <div class="col-md-6" style="margin: auto;">
+                  <a href="https://twitter.com/PuneMUG/status/1690419902195310592"><img src="assets/img/Events/mugPuneInagural.jpeg" alt="Pune MUG Inagural" class="img-raised"></a>
+                  <div class="mb-2 caption text-center"><a href="https://www.mongodb.com/community/forums/pune-mug">Lead, Pune MongoDB User Group (MUG)</a></div>
+                </div>
+                
+                <div class="col-md-6" style="margin: auto;">
                   <a href="https://twitter.com/faizan8684/status/1665649080075436032"><img src="assets/img/Events/JSConfIndia.png" alt="JSConf India 2023" class="img-raised"></a>
                   <div class="mb-2 caption text-center"><a href="https://twitter.com/faizan8684/status/1665649080075436032">Co-Organiser, JSConf India 2023</a></div>
                 </div>
@@ -219,12 +229,12 @@ background-size: cover; */
                 
                 <div class="col-md-6" style="margin: auto;">
                   <a href="https://www.instagram.com/stories/highlights/18119516617294221/"><img src="/assets/img/Events/DevFestPune22.jpeg" alt="DevFest Pune 2022" class="img-raised"></a>
-                  <div class="mb-2 caption text-center">MC, GDG DevFest Pune 2022</div>
+                  <div class="mb-2 caption text-center"><a href="https://www.instagram.com/stories/highlights/18119516617294221/">MC, GDG DevFest Pune 2022</a></div>
                 </div>
                 
                 <div class="col-md-6" style="margin: auto;">
                   <a href="https://www.instagram.com/stories/highlights/17960286043845381/"><img src="/assets/img/Events/GFD22.jpeg" alt="GFD 2022" class="img-raised mt-1"></a>
-                  <div class="mb-2 caption text-center">GitHub Field Day 2022 (BLR)</div>
+                  <div class="mb-2 caption text-center"><a href="https://www.instagram.com/stories/highlights/17960286043845381/">GitHub Field Day 2022 (BLR)</a></div>
                 </div>
 
               </div>
