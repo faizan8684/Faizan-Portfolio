@@ -189,7 +189,8 @@ background-size: cover; */
         <div class="mt-5 mr-2 ml-2 row" id="AboutMe">
         <div class="col-md-8  mx-auto" style="border-radius: 5px; background-color: lavender;">
         <h3 class="title text-center text-black" >About me</h3>
-        <h5 class="text-black description">A software engineer, currently co-organising <span><a style="font-weight: bolder;" href="https://jsconf.in/">JSConf India 2023</a></span>, pursuing M. Tech. in Software Engineering from <span><a style="font-weight: bolder;" href="https://www.bits-pilani.ac.in/">BITS Pilani</a></span> and trying to grasp technical and leadership skills as much as possible.</h5>
+        <h4 class="text-black description">An avid learner | Always a student | Mixed Reality Evangelist | Community Enthusiast </h4>
+        <h5 class="text-black description">A software engineer, currently leading <span><a style="font-weight: bolder;" href="https://twitter.com/punemug">MUG Pune</a></span>, co-organising <span><a style="font-weight: bolder;" href="https://www.reactindia.io/">React India 2023</a></span>, <span><a style="font-weight: bolder;" href="https://jsconf.in/">JSConf India 2023</a></span>, pursuing M. Tech. in Software Engineering from <span><a style="font-weight: bolder;" href="https://www.bits-pilani.ac.in/">BITS Pilani</a></span> and trying to grasp technical and leadership skills as much as possible. </span></h5>
       </div>
     </div>
         
@@ -208,7 +209,7 @@ background-size: cover; */
               <div class="row collections">
                 
                 <div class="col-md-6" style="margin: auto;">
-                  <a href="https://www.reactindia.io/"><img src="assets/img/Events/ReactIndia.jpg" alt="React India 2023" class="img-raised"></a>
+                  <a href="https://www.reactindia.io/"><img src="assets/img/Events/ReactIndia23.jpg" alt="React India 2023" class="img-raised"></a>
                   <div class="mb-2 caption text-center"><a href="https://www.reactindia.io/">Co-organiser, React India</a></div>
                 </div>
 
