@@ -208,7 +208,7 @@ background-size: cover; */
               <div class="row collections">
                 
                 <div class="col-md-6" style="margin: auto;">
-                  <a href="https://www.reactindia.io/"><img src="assets/img/Events/ComingSoon.gif" alt="Coming Soon" class="img-raised"></a>
+                  <a href="https://www.reactindia.io/"><img src="assets/img/Events/ReactIndia.jpg" alt="React India 2023" class="img-raised"></a>
                   <div class="mb-2 caption text-center"><a href="https://www.reactindia.io/">Co-organiser, React India</a></div>
                 </div>
 
