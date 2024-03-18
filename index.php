@@ -190,7 +190,7 @@ background-size: cover; */
         <div class="col-md-8  mx-auto" style="border-radius: 5px; background-color: lavender;">
         <h3 class="title text-center text-black" >About me</h3>
         <h4 class="text-black description">An avid learner | Always a student | Mixed Reality Evangelist | Community Enthusiast </h4>
-        <h5 class="text-black description">A software engineer, currently leading <span><a style="font-weight: bolder;" href="https://twitter.com/punemug">MUG Pune</a></span>, co-organising <span><a style="font-weight: bolder;" href="https://www.reactindia.io/">React India 2023</a></span>, <span><a style="font-weight: bolder;" href="https://jsconf.in/">JSConf India 2023</a></span>, pursuing M. Tech. in Software Engineering from <span><a style="font-weight: bolder;" href="https://www.bits-pilani.ac.in/">BITS Pilani</a></span> and trying to grasp technical and leadership skills as much as possible. </span></h5>
+        <h5 class="text-black description">A software engineer, currently leading <span><a style="font-weight: bolder;" href="https://twitter.com/punemug">MUG Pune</a></span>, co-organising <span><a style="font-weight: bolder;" href="https://www.reactindia.io/">React India</a></span>, <span><a style="font-weight: bolder;" href="https://jsconf.in/">JSConf India</a></span>, pursuing M. Tech. in Software Engineering from <span><a style="font-weight: bolder;" href="https://www.bits-pilani.ac.in/">BITS Pilani</a></span> and trying to grasp technical and leadership skills as much as possible. </span></h5>
       </div>
     </div>
         
